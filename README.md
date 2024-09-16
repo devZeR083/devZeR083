@@ -1,4 +1,4 @@
-Saudações a todos. Me chamo Andrey William, sou natural da Paraíba, no Brasil, e atualmente sou um estudante de Engenharia de Computação do segundo período no Instituto Federal
+Saudações a todos. Me chamo Andrey William, sou natural da Paraíba, no Brasil, e atualmente sou um estudante de Engenharia de Computação do terceiro período no Instituto Federal
 da Paraíba, o que significa que ainda sou um programador iniciante.
 
 Espero contribuir bastante com a comunidade e que meus projetos possam ser úteis para todos.
